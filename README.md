@@ -1,5 +1,8 @@
 # mans_cv
+## Vards Uzvards
 Deniss Userdnijs
+
+<img src="https://github.com/Userdnij/mans_cv/blob/main/cv%20img.jpg?raw=true" width="10%" height="10%">
 
 # Izglītība 
 2011 - 2020.g.  
